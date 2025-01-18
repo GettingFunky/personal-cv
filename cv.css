@@ -21,3 +21,10 @@ body {
 .cf-contact-info i {
   margin-right: 8px;
 }
+
+.cf-courses-pic {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  border-radius: 50%;
+}
