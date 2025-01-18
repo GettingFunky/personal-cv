@@ -23,8 +23,8 @@ body {
 }
 
 .cf-courses-pic {
-  width: 100px;
-  height: 100px;
+  width: 200x;
+  height: 120px;
   object-fit: cover;
-  border-radius: 50%;
+  border-radius: 5%;
 }
