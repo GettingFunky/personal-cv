@@ -1,8 +1,10 @@
-# perconal-cv
-To be frank, crafting a CV during such a steep career change is challenging to shape. 
-I decided to include my music activities as well, as I see significant similarities between programming and music:
-Both are creative, iterative, and require a vast amount of time and effort to master.
+# personal-cv
+To be frank, crafting a CV during such a steep career change is no simple task. 
 
-This repository serves both as a CV and as a showcase of what I’ve learned so far in HTML, CSS, and JavaScript techniques.
+I decided to include my music activities as well, as I see profound similarities between programming and music: both are creative, iterative, and demand a significant investment of time and effort to master.
 
-Created using Bootstrap and a touch of custom CSS code to make it look just the way I wanted.
+This repository serves a dual purpose:
+1. As a CV – showcasing my professional journey and skills.
+2. As a portfolio – demonstrating what I’ve learned so far in HTML, CSS, and JavaScript.
+
+Built using Bootstrap and enhanced with custom CSS, this project reflects my attention to detail and passion for creating clean, functional, and visually appealing designs.
